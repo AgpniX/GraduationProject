@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="textVlues">
+        <item name="textViewCusText">用户环境监听</item>
+        <item name="textViewFitText">Fit监听</item>
+        <item name="textViewAuto">Auto监听</item>
+    </string-array>
+</resources>

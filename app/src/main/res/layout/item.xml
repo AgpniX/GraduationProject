@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+   <!-- <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="40dp"
+        android:id="@+id/lin_txCu">
+        <TextView
+
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="120dp"
+            android:text="@string/textViewCusText"
+            android:id="@+id/textViewCus" />
+
+        <Switch
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewCus"
+            android:textOn="@string/turnOn"
+            android:textOff="@string/turnOff"
+            android:id="@+id/switch1"
+            android:checked="false" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/lin_txFit"
+        android:layout_below="@id/lin_txCu"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="120dp"
+            android:text="@string/textViewFitText"
+            android:id="@+id/textViewFit" />
+
+        <Switch
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewFit"
+            android:id="@+id/switch2"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_below="@id/lin_txFit"
+        android:id="@+id/lin_txAuto"
+        android:layout_marginTop="10dp"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="120dp"
+            android:text="@string/textViewAutoText"
+            android:id="@+id/textViewAuto" />
+
+        <Switch
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewAuto"
+            android:id="@+id/switch3" />
+    </LinearLayout>-->
+<!--
+
+ <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="40dp"
+        android:id="@+id/lin_txCu">
+        <TextView
+
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="120dp"
+            android:text="@string/textViewCusText"
+            android:id="@+id/textViewCus" />
+
+        <Switch
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewCus"
+            android:textOn="@string/turnOn"
+            android:textOff="@string/turnOff"
+            android:id="@+id/switch1"
+            android:checked="false" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/lin_txFit"
+        android:layout_below="@id/lin_txCu"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="120dp"
+            android:text="@string/textViewFitText"
+            android:id="@+id/textViewFit" />
+
+        <Switch
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewFit"
+            android:id="@+id/switch2"/>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_below="@id/lin_txFit"
+        android:id="@+id/lin_txAuto"
+        android:layout_marginTop="10dp"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="120dp"
+            android:text="@string/textViewAutoText"
+            android:id="@+id/textViewAuto" />
+
+        <Switch
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/textViewAuto"
+            android:id="@+id/switch3" />
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_below="@id/lin_txFit"
+        android:id="@+id/lin_txAll"
+        android:layout_marginTop="30dp"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="一键开启"
+            android:id="@+id/textViewAll" />
+
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/switch0" />
+    </LinearLayout>
+-->
+
+</LinearLayout>

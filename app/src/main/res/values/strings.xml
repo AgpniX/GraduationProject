@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GraduationProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="textViewCusText">用户环境监听</string>
+    <string name="textViewFitText">Fit监听</string>
+    <string name="textViewAutoText">Auto监听</string>
+    <string name="turnOn">开启</string>
+    <string name="turnOff">关闭</string>
+
+</resources>
